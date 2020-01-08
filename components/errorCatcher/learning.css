@@ -1,0 +1,12 @@
+.main-nav{
+	background:linear-gradient(blue,white);
+	display: flex;
+	margin: 0;
+	list-style: none;
+}
+li{
+	padding: 20px;
+}
+.push{
+	margin-left: 350px;
+}
