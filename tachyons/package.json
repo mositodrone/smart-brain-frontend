@@ -23,7 +23,7 @@
     "babel-register": "^6.24.1",
     "browser-env": "^3.1.2",
     "bundlesize": "^0.13.2",
-    "codecov": "^2.3.0",
+    "codecov": "^3.7.1",
     "css-to-object": "^1.1.0",
     "nyc": "^11.1.0",
     "react": "^15.6.1",
